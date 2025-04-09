@@ -23,7 +23,7 @@ const AboutSection = () => {
             <div className="relative w-full h-full z-10">
               <img
                 src={profilePic}
-                alt="Himanshu Kumar"
+                alt="Ayak Manna"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500 shadow-xl"
               />
             </div>
